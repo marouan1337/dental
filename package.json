@@ -1,0 +1,14 @@
+{
+  "name": "optician-website",
+  "version": "1.0.0",
+  "description": "Optician website with interactive features",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
